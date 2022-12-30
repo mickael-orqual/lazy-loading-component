@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'lazy-loading';
+
+  video = 'https://www.w3schools.com/html/mov_bbb.mp4';
+  img = 'https://www.w3schools.com/html/pic_trulli.jpg';
 }
